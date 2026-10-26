@@ -1,0 +1,1 @@
+[{"HoTen":"Nguyen Khanh Duy","MSSV":"25520432","DienThoai":"0933886458","DiemMon1":8,"DiemMon2":9,"DiemMon3":10,"DiemTrungBinh":9}]
